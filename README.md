@@ -1,189 +1,182 @@
-- 👋 Hi, I’m @Jashandeep
-- 👀 I’m interested in Hacking/Developing 
+- 👋 Hi, I’m @jashansinghkkp
+- 👀 I’m interested in Hacking/Developing .
 - 🌱 I’m currently learning cyber.
 - 📫 How to reach me ig ="jashan_singh_kkp
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-<!-- Zphisher -->
+- 📫 E-mail= "jashansinghkkp1122@gmail.com
 
-<p align="center">
-  <img src=".github/misc/logo.png">
-</p>
+<div align="center">
+  <div class="profile-text" style="font-family: 'Courier New', monospace; font-size: 3rem; color: #0f0; font-weight: bold; letter-spacing: 0.1em; text-transform: uppercase; margin-bottom: 1rem; text-shadow: 0 0 10px rgba(0, 255, 0, 0.7);">HACKPY</div>
+  <h1 style="font-size: 2.2rem; margin-bottom: 0.5rem; background: linear-gradient(90deg, #fff, #0f0); -webkit-background-clip: text; -webkit-text-fill-color: transparent; text-shadow: 0 0 8px rgba(0, 255, 0, 0.4);">"jashansinghkkp"</h1>
+  <p style="font-size: 1.1rem; color: #0f0; margin-bottom: 1.5rem;">Security Researcher | Full Stack Developer | Bug Bounty Hunter</p>
+  
+  <div style="display: flex; justify-content: center; gap: 1rem; margin: 1rem 0;">
+    <div style="display: inline-flex; align-items: center; background: rgba(0, 0, 0, 0.7); padding: 0.5rem 1rem; border: 1px solid #0f0; border-radius: 4px; color: #0f0; font-family: monospace;">
+      <span style="margin-right: 0.5rem;">$</span>
+      <span>nmap -sS target.com</span>
+    </div>
+    <div style="display: inline-flex; align-items: center; background: rgba(0, 0, 0, 0.7); padding: 0.5rem 1rem; border: 1px solid #0f0; border-radius: 4px; color: #0f0; font-family: monospace;">
+      <span style="margin-right: 0.5rem;">$</span>
+      <span>hydra -l admin -P wordlist.txt 192.168.1.1 ssh</span>
+    </div>
+  </div>
+  
+  <div style="display: flex; justify-content: center; gap: 1.5rem; margin: 1rem 0;">
+    <a href="#" style="width: 45px; height: 45px; border-radius: 50%; background: rgba(0, 0, 0, 0.7); display: flex; align-items: center; justify-content: center; color: #0f0; font-size: 1.5rem; transition: all 0.3s ease; border: 1px solid #0f0; text-decoration: none;">
+      <i class="fab fa-github"></i>
+    </a>
+    <a href="#" style="width: 45px; height: 45px; border-radius: 50%; background: rgba(0, 0, 0, 0.7); display: flex; align-items: center; justify-content: center; color: #0f0; font-size: 1.5rem; transition: all 0.3s ease; border: 1px solid #0f0; text-decoration: none;">
+      <i class="fab fa-twitter"></i>
+    </a>
+    <a href="#" style="width: 45px; height: 45px; border-radius: 50%; background: rgba(0, 0, 0, 0.7); display: flex; align-items: center; justify-content: center; color: #0f0; font-size: 1.5rem; transition: all 0.3s ease; border: 1px solid #0f0; text-decoration: none;">
+      <i class="fab fa-linkedin"></i>
+    </a>
+    <a href="#" style="width: 45px; height: 45px; border-radius: 50%; background: rgba(0, 0, 0, 0.7); display: flex; align-items: center; justify-content: center; color: #0f0; font-size: 1.5rem; transition: all 0.3s ease; border: 1px solid #0f0; text-decoration: none;">
+      <i class="fab fa-discord"></i>
+    </a>
+  </div>
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Version-2.3.5-green?style=for-the-badge">
-  <img src="https://img.shields.io/github/license/htr-tech/zphisher?style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/htr-tech/zphisher?style=for-the-badge">
-  <img src="https://img.shields.io/github/issues/htr-tech/zphisher?color=red&style=for-the-badge">
-  <img src="https://img.shields.io/github/forks/htr-tech/zphisher?color=teal&style=for-the-badge">
-</p>
+<h2 style="font-size: 1.6rem; margin: 2rem 0 1rem; padding-bottom: 0.5rem; border-bottom: 1px solid #0f0; color: #0f0; font-family: 'Courier New', monospace;">[ABOUT]</h2>
+<div style="background: rgba(0, 0, 0, 0.7); border: 1px solid #0f0; border-radius: 4px; padding: 1rem; margin: 1rem 0; font-family: 'Courier New', monospace; color: #0f0;">
+  <div style="margin-bottom: 0.5rem;">root@github:~# cat profile.txt</div>
+  <div style="color: #0f0; line-height: 1.6;">
+    <p>Security researcher with expertise in penetration testing and ethical hacking.</p>
+    <p>Full stack developer specializing in secure web applications and blockchain technology.</p>
+    <p>Open source contributor and bug bounty hunter with 4+ years of experience.</p>
+    <p>Currently working on improving cybersecurity awareness and developing secure coding practices.</p>
+  </div>
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Author-htr--tech-blue?style=flat-square">
-  <img src="https://img.shields.io/badge/Open%20Source-Yes-darkgreen?style=flat-square">
-  <img src="https://img.shields.io/badge/Maintained%3F-Yes-lightblue?style=flat-square">
-  <img src="https://img.shields.io/badge/Written%20In-Bash-darkcyan?style=flat-square">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhtr-tech%2Fzphisher&title=Visitors&edge_flat=false"/></a>
-</p>
+<h2 style="font-size: 1.6rem; margin: 2rem 0 1rem; padding-bottom: 0.5rem; border-bottom: 1px solid #0f0; color: #0f0; font-family: 'Courier New', monospace;">[SKILLS]</h2>
+<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(120px, 1fr)); gap: 0.8rem; margin: 1rem 0;">
+  <div style="background: rgba(0, 0, 0, 0.7); border: 1px solid #0f0; border-radius: 4px; padding: 0.8rem; text-align: center; font-family: 'Courier New', monospace; color: #0f0; transition: all 0.3s ease;">
+    <i class="fab fa-python" style="font-size: 1.5rem; margin-bottom: 0.5rem;"></i>
+    <div>Python</div>
+  </div>
+  <div style="background: rgba(0, 0, 0, 0.7); border: 1px solid #0f0; border-radius: 4px; padding: 0.8rem; text-align: center; font-family: 'Courier New', monospace; color: #0f0; transition: all 0.3s ease;">
+    <i class="fab fa-js" style="font-size: 1.5rem; margin-bottom: 0.5rem;"></i>
+    <div>JavaScript</div>
+  </div>
+  <div style="background: rgba(0, 0, 0, 0.7); border: 1px solid #0f0; border-radius: 4px; padding: 0.8rem; text-align: center; font-family: 'Courier New', monospace; color: #0f0; transition: all 0.3s ease;">
+    <i class="fas fa-shield-alt" style="font-size: 1.5rem; margin-bottom: 0.5rem;"></i>
+    <div>Cybersecurity</div>
+  </div>
+  <div style="background: rgba(0, 0, 0, 0.7); border: 1px solid #0f0; border-radius: 4px; padding: 0.8rem; text-align: center; font-family: 'Courier New', monospace; color: #0f0; transition: all 0.3s ease;">
+    <i class="fas fa-network-wired" style="font-size: 1.5rem; margin-bottom: 0.5rem;"></i>
+    <div>Networking</div>
+  </div>
+  <div style="background: rgba(0, 0, 0, 0.7); border: 1px solid #0f0; border-radius: 4px; padding: 0.8rem; text-align: center; font-family: 'Courier New', monospace; color: #0f0; transition: all 0.3s ease;">
+    <i class="fab fa-linux" style="font-size: 1.5rem; margin-bottom: 0.5rem;"></i>
+    <div>Linux</div>
+  </div>
+  <div style="background: rgba(0, 0, 0, 0.7); border: 1px solid #0f0; border-radius: 4px; padding: 0.8rem; text-align: center; font-family: 'Courier New', monospace; color: #0f0; transition: all 0.3s ease;">
+    <i class="fas fa-database" style="font-size: 1.5rem; margin-bottom: 0.5rem;"></i>
+    <div>SQL Injection</div>
+  </div>
+</div>
 
-<p align="center"><b>A beginners friendly, Automated phishing tool with 30+ templates.</b></p>
+<h2 style="font-size: 1.6rem; margin: 2rem 0 1rem; padding-bottom: 0.5rem; border-bottom: 1px solid #0f0; color: #0f0; font-family: 'Courier New', monospace;">[PROJECTS]</h2>
+<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 1.2rem; margin: 1rem 0;">
+  <div style="background: rgba(0, 0, 0, 0.7); border: 1px solid #0f0; border-radius: 4px; padding: 1.2rem; transition: all 0.3s ease; font-family: 'Courier New', monospace; color: #0f0;">
+    <h3 style="font-size: 1.2rem; margin-bottom: 0.8rem; color: #0f0; border-bottom: 1px solid #0f0; padding-bottom: 0.5rem;">
+      <i class="fas fa-lock" style="margin-right: 0.5rem;"></i> Security Scanner
+    </h3>
+    <p style="color: #0f0; margin-bottom: 1rem; font-size: 0.9rem;">Automated tool for vulnerability scanning and penetration testing of web applications.</p>
+    <div style="display: flex; gap: 0.8rem;">
+      <a href="#" style="padding: 0.5rem 1rem; background: rgba(0, 0, 0, 0.7); border: 1px solid #0f0; color: #0f0; border-radius: 4px; text-decoration: none; font-size: 0.9rem; transition: all 0.3s ease;">
+        <i class="fab fa-github" style="margin-right: 0.5rem;"></i> Source
+      </a>
+      <a href="#" style="padding: 0.5rem 1rem; background: rgba(0, 0, 0, 0.7); border: 1px solid #0f0; color: #0f0; border-radius: 4px; text-decoration: none; font-size: 0.9rem; transition: all 0.3s ease;">
+        <i class="fas fa-external-link-alt" style="margin-right: 0.5rem;"></i> Demo
+      </a>
+    </div>
+  </div>
+  
+  <div style="background: rgba(0, 0, 0, 0.7); border: 1px solid #0f0; border-radius: 4px; padding: 1.2rem; transition: all 0.3s ease; font-family: 'Courier New', monospace; color: #0f0;">
+    <h3 style="font-size: 1.2rem; margin-bottom: 0.8rem; color: #0f0; border-bottom: 1px solid #0f0; padding-bottom: 0.5rem;">
+      <i class="fas fa-key" style="margin-right: 0.5rem;"></i> Password Cracker
+    </h3>
+    <p style="color: #0f0; margin-bottom: 1rem; font-size: 0.9rem;">Advanced tool for password cracking using multiple techniques and algorithms.</p>
+    <div style="display: flex; gap: 0.8rem;">
+      <a href="#" style="padding: 0.5rem 1rem; background: rgba(0, 0, 0, 0.7); border: 1px solid #0f0; color: #0f0; border-radius: 4px; text-decoration: none; font-size: 0.9rem; transition: all 0.3s ease;">
+        <i class="fab fa-github" style="margin-right: 0.5rem;"></i> Source
+      </a>
+      <a href="#" style="padding: 0.5rem 1rem; background: rgba(0, 0, 0, 0.7); border: 1px solid #0f0; color: #0f0; border-radius: 4px; text-decoration: none; font-size: 0.9rem; transition: all 0.3s ease;">
+        <i class="fas fa-external-link-alt" style="margin-right: 0.5rem;"></i> Demo
+      </a>
+    </div>
+  </div>
+  
+  <div style="background: rgba(0, 0, 0, 0.7); border: 1px solid #0f0; border-radius: 4px; padding: 1.2rem; transition: all 0.3s ease; font-family: 'Courier New', monospace; color: #0f0;">
+    <h3 style="font-size: 1.2rem; margin-bottom: 0.8rem; color: #0f0; border-bottom: 1px solid #0f0; padding-bottom: 0.5rem;">
+      <i class="fas fa-code-branch" style="margin-right: 0.5rem;"></i> Blockchain Analyzer
+    </h3>
+    <p style="color: #0f0; margin-bottom: 1rem; font-size: 0.9rem;">Tool for analyzing blockchain transactions and identifying suspicious activities.</p>
+    <div style="display: flex; gap: 0.8rem;">
+      <a href="#" style="padding: 0.5rem 1rem; background: rgba(0, 0, 0, 0.7); border: 1px solid #0f0; color: #0f0; border-radius: 4px; text-decoration: none; font-size: 0.9rem; transition: all 0.3s ease;">
+        <i class="fab fa-github" style="margin-right: 0.5rem;"></i> Source
+      </a>
+      <a href="#" style="padding: 0.5rem 1rem; background: rgba(0, 0, 0, 0.7); border: 1px solid #0f0; color: #0f0; border-radius: 4px; text-decoration: none; font-size: 0.9rem; transition: all 0.3s ease;">
+        <i class="fas fa-external-link-alt" style="margin-right: 0.5rem;"></i> Demo
+      </a>
+    </div>
+  </div>
+</div>
 
-##
+<h2 style="font-size: 1.6rem; margin: 2rem 0 1rem; padding-bottom: 0.5rem; border-bottom: 1px solid #0f0; color: #0f0; font-family: 'Courier New', monospace;">[ACHIEVEMENTS]</h2>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 1rem; margin: 1rem 0;">
+  <div style="background: rgba(0, 0, 0, 0.7); border: 1px solid #0f0; border-radius: 4px; padding: 1rem; text-align: center; font-family: 'Courier New', monospace; color: #0f0; transition: all 0.3s ease;">
+    <div style="font-size: 2rem; font-weight: bold; margin-bottom: 0.5rem;">15+</div>
+    <div>Bug Bounty</div>
+  </div>
+  <div style="background: rgba(0, 0, 0, 0.7); border: 1px solid #0f0; border-radius: 4px; padding: 1rem; text-align: center; font-family: 'Courier New', monospace; color: #0f0; transition: all 0.3s ease;">
+    <div style="font-size: 2rem; font-weight: bold; margin-bottom: 0.5rem;">8</div>
+    <div>CTF Wins</div>
+  </div>
+  <div style="background: rgba(0, 0, 0, 0.7); border: 1px solid #0f0; border-radius: 4px; padding: 1rem; text-align: center; font-family: 'Courier New', monospace; color: #0f0; transition: all 0.3s ease;">
+    <div style="font-size: 2rem; font-weight: bold; margin-bottom: 0.5rem;">20+</div>
+    <div>Public Tools</div>
+  </div>
+  <div style="background: rgba(0, 0, 0, 0.7); border: 1px solid #0f0; border-radius: 4px; padding: 1rem; text-align: center; font-family: 'Courier New', monospace; color: #0f0; transition: all 0.3s ease;">
+    <div style="font-size: 2rem; font-weight: bold; margin-bottom: 0.5rem;">4</div>
+    <div>Years Exp</div>
+  </div>
+</div>
 
-<h3><p align="center">Disclaimer</p></h3>
+<footer style="text-align: center; padding: 1.5rem 0; color: #0f0; font-size: 0.9rem; margin-top: 2rem; border-top: 1px solid #0f0; font-family: 'Courier New', monospace;">
+  <div style="margin-bottom: 0.5rem;">root@github:~# echo "HACKPY was here..."</div>
+  <div>Connect with me to discuss security, coding, and blockchain</div>
+</footer>
+🔥 About Me
+Security Enthusiast | Ethical Hacker | Developer
 
-<i>Any actions and or activities related to <b>Zphisher</b> is solely your responsibility. The misuse of this toolkit can result in <b>criminal charges</b> brought against the persons in question. <b>The contributors will not be held responsible</b> in the event any criminal charges be brought against any individuals misusing this toolkit to break the law.
+I'm passionate about cybersecurity, ethical hacking, and coding. My journey revolves around:
 
-<b>This toolkit contains materials that can be potentially damaging or dangerous for social media</b>. Refer to the laws in your province/country before accessing, using,or in any other way utilizing this in a wrong way.
+🔐 Pentesting & Bug Bounty – Hunting vulnerabilities and securing systems.
 
-<b>This Tool is made for educational purposes only</b>. Do not attempt to violate the law with anything contained here. <b>If this is your intention, then Get the hell out of here</b>!
+💻 Coding & Automation – Building tools to simplify security tasks.
 
-It only demonstrates "how phishing works". <b>You shall not misuse the information to gain unauthorized access to someones social media</b>. However you may try out this at your own risk.</i>
+📚 Continuous Learning – Exploring reverse engineering, exploit dev, and malware analysis.
 
-##
+🛠️ Open-Source Contributions – Developing & improving security-related projects.
 
-### Features
+Hack The Planet! 🌍💻
 
-- Latest and updated login pages.
-- Beginners friendly
-- Multiple tunneling options
-  - Localhost
-  - Cloudflared
-  - LocalXpose
-- Mask URL support 
-- Docker support
+🛠️ Skills & Tools
+Security:
+Penetration Testing | Reverse Engineering | Web App Security | Network Security
 
-##
+Programming:
+Python | C/C++ | Bash | JavaScript
 
-### Installation
+Tools:
+Metasploit | Burp Suite | Wireshark | Ghidra | Nmap
 
-- Just, Clone this repository -
-  ```
-  git clone --depth=1 https://github.com/htr-tech/zphisher.git
-  ```
+📊 GitHub Stats
+https://streak-stats.demolab.com?user=jashansinghkkp&theme=dark
+https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=vision-friendly-dark
 
-- Now go to cloned directory and run `zphisher.sh` -
-  ```
-  $ cd zphisher
-  $ bash zphisher.sh
-  ```
+📫 Let’s Connect
+Twitter: @YourHandle
 
-- On first launch, It'll install the dependencies and that's it. ***Zphisher*** is installed.
-
-##
-
-### Installation (Termux)
-You can easily install zphisher in Termux by using tur-repo
-```
-$ pkg install tur-repo
-$ pkg install zphisher
-$ zphisher
-```
-### A Note : 
-***Termux discourages hacking*** .. So never discuss anything related to *zphisher* in any of the termux discussion groups. For more check : [wiki](https://wiki.termux.com/wiki/Hacking)
-
-##
-
-<p align="left">
-  <a href="https://shell.cloud.google.com/cloudshell/open?cloudshell_git_repo=https://github.com/htr-tech/zphisher.git&tutorial=README.md" target="_blank"><img src="https://gstatic.com/cloudssh/images/open-btn.svg"></a>
-</p>
-
-##
-
-### Installation via ".deb" file
-
-- Download `.deb` files from the [**Latest Release**](https://github.com/htr-tech/zphisher/releases/latest)
-- If you are using ***termux*** then download the `*_termux.deb`
-
-- Install the `.deb` file by executing
-  ```
-  apt install <your path to deb file>
-  ```
-  Or
-  ```
-  $ dpkg -i <your path to deb file>
-  $ apt install -f
-  ```
-
-##
-
-### Run on Docker
-
-- Docker Image Mirror:
-  - **DockerHub** : 
-    ```
-    docker pull htrtech/zphisher
-    ```
-  - **GHCR** : 
-    ```
-    docker pull ghcr.io/htr-tech/zphisher:latest
-    ```
-
-- By using the wrapper script [**run-docker.sh**](https://raw.githubusercontent.com/htr-tech/zphisher/master/run-docker.sh)
-
-  ```
-  $ curl -LO https://raw.githubusercontent.com/htr-tech/zphisher/master/run-docker.sh
-  $ bash run-docker.sh
-  ```
-- Temporary Container
-
-  ```
-  docker run --rm -ti htrtech/zphisher
-  ```
-  - Remember to mount the `auth` directory.
-
-##
-
-<details>
-  <summary><h3>Dependencies</h3></summary>
-
-<b>Zphisher</b> requires following programs to run properly - 
-- `git`
-- `curl`
-- `php`
-
-> All the dependencies will be installed automatically when you run **Zphisher** for the first time.
-</details>
-
-<details>
-  <summary><h3>Tested on</h3></summary>
-
-- **Ubuntu**
-- **Debian**
-- **Arch**
-- **Manjaro**
-- **Fedora**
-- **Termux**
-</details>
-
-##
-
-<h3 align="center"><i>:: Workflow ::</i></h3>
-<p align="center">
-<img src=".github/misc/workflow.gif"/>
-</p>
-
-##
-
-
-### *Thanks to all contributors*:
-
-<table>
-  <tr align="center">
-    <td><a href="https://github.com/1RaY-1"><img src="https://avatars.githubusercontent.com/u/78962948?s=100" /><br /><sub><b>1RaY-1</b></sub></a></td>
-    <td><a href="https://github.com/adi1090x"><img src="https://avatars.githubusercontent.com/u/26059688?s=100" /><br /><sub><b>Aditya Shakya</b></sub></a></td>
-    <td><a href="https://github.com/AliMilani"><img src="https://avatars.githubusercontent.com/u/59066012?s=100" /><br /><sub><b>Ali Milani</b></sub></a></td>
-    <td><a href="https://github.com/Meht-evaS"><img src="https://avatars.githubusercontent.com/u/57435273?s=100" /><br /><sub><b>AmnesiA</b></sub></a></td>
-    <td><a href="https://github.com/KasRoudra"><img src="https://avatars.githubusercontent.com/u/78908440?s=100" /><br /><sub><b>KasRoudra</b></sub></a></td>
-   <td><a href="https://github.com/MoisesTapia"><img src="https://avatars.githubusercontent.com/u/28166400?s=100" /><br /><sub><b>Moises Tapia</b></sub></a></td>
-  </tr>
-  <tr align="center">
-   <td><a href="https://github.com/E343IO"><img src="https://avatars.githubusercontent.com/u/74646789?s=100" /><br /><sub><b>Mr.Derek</b></sub></a></td>
-    <td><a href="https://github.com/BDhackers009"><img src="https://avatars.githubusercontent.com/u/67186139?s=100" /><br /><sub><b>Mustakim Ahmed</b></sub></a></td>
-    <td><a href="https://github.com/sepp0"><img src="https://avatars.githubusercontent.com/u/36642137?s=100" /><br /><sub><b>sepp0</b></sub></a></td>
-    <td><a href="https://github.com/TripleHat"><img src="https://avatars.githubusercontent.com/u/68332137?s=100" /><br /><sub><b>TripleHat</b></sub></a></td>
-    <td><a href="https://github.com/Yisus7u7"><img src="https://avatars.githubusercontent.com/u/64093255?s=100" /><br /><sub><b>Yisus7u7</b></sub></a></td>
-  </tr>
-<table>
-
-<!-- // -->
+LinkedIn: "jashansinghkkp"
