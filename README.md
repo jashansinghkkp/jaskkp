@@ -174,7 +174,7 @@ Metasploit | Burp Suite | Wireshark | Ghidra | Nmap
 
 📊 GitHub Stats
 https://streak-stats.demolab.com?user=jashansinghkkp&theme=dark
-https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=vision-friendly-dark
+https://github-readme-stats.vercel.app/api/top-langs/?username=jashansinghkkp&layout=compact&theme=vision-friendly-dark
 
 📫 Let’s Connect
 Twitter: @YourHandle
