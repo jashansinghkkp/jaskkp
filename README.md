@@ -36,7 +36,7 @@
   </div>
 </div>
 
-<h2 style="font-size: 1.6rem; margin: 2rem 0 1rem; padding-bottom: 0.5rem; border-bottom: 1px solid #0f0; color: #0f0; font-family: 'Courier New', monospace;">[ABOUT]</h2>
+<h2 style="font-size: 1.6rem; margin: 2rem 0 1rem; padding-bottom: 0.5rem; border-bottom: 1px solid #0f0; color: #0f0; font-family: 'Courier New', monospace;">🔥 About Me</h2>
 <div style="background: rgba(0, 0, 0, 0.7); border: 1px solid #0f0; border-radius: 4px; padding: 1rem; margin: 1rem 0; font-family: 'Courier New', monospace; color: #0f0;">
   <div style="margin-bottom: 0.5rem;">root@github:~# cat profile.txt</div>
   <div style="color: #0f0; line-height: 1.6;">
@@ -47,7 +47,7 @@
   </div>
 </div>
 
-<h2 style="font-size: 1.6rem; margin: 2rem 0 1rem; padding-bottom: 0.5rem; border-bottom: 1px solid #0f0; color: #0f0; font-family: 'Courier New', monospace;">[SKILLS]</h2>
+<h2 style="font-size: 1.6rem; margin: 2rem 0 1rem; padding-bottom: 0.5rem; border-bottom: 1px solid #0f0; color: #0f0; font-family: 'Courier New', monospace;">🛠️ Skills & Tools</h2>
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(120px, 1fr)); gap: 0.8rem; margin: 1rem 0;">
   <div style="background: rgba(0, 0, 0, 0.7); border: 1px solid #0f0; border-radius: 4px; padding: 0.8rem; text-align: center; font-family: 'Courier New', monospace; color: #0f0; transition: all 0.3s ease;">
     <i class="fab fa-python" style="font-size: 1.5rem; margin-bottom: 0.5rem;"></i>
